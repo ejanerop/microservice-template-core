@@ -10,3 +10,4 @@
 - rate limiting (resilience4j or bucket4j)
 - actuator endpoints
 - cache with redis
+- minio bucket integration
