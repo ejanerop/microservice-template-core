@@ -1,0 +1,12 @@
+- keycloak integration (security and user management)
+- logging with logstash
+- scheduler service and connection with rabbitmq
+- junit testing
+- several enviroments (dev, test, prod)
+- swagger api documentation
+- CI/CD with github actions
+- flyway database migration
+- sonarqube integration
+- rate limiting (resilience4j or bucket4j)
+- actuator endpoints
+- cache with redis
