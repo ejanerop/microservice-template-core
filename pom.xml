@@ -128,9 +128,9 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>com.janero</groupId>
-			<artifactId>template-common-lib</artifactId>
-			<version>0.0.1</version>
+			<groupId>com.github.ejanerop</groupId>
+			<artifactId>microservice-template-common-lib</artifactId>
+			<version>0.0.5</version>
 		</dependency>
 	</dependencies>
 
